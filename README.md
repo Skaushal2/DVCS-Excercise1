@@ -54,7 +54,7 @@ Question 14.
 Answer - 2.Staging files for a commit means to identify files that may be new, modified, or deleted and marking those as being ready to commit.
 
 Question 15.
-Answer - git commit -m "Commit message"
+Answer - git commit 
 
 Question 16.
 Answer - Files that are prepared are added to the repository.
