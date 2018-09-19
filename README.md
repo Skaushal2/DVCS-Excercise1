@@ -57,4 +57,4 @@ Question 15.
 Answer - git commit -m "Commit message"
 
 Question 16.
-Answer - Prepare files for being added (tracked) in the repository.
+Answer - Files that are prepared are added to the repository.
