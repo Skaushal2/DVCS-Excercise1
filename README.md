@@ -1,13 +1,13 @@
-# DVCS_Website
-DVCS Excercise
-Likhit Budwal
 
-# 1.F
-# 2.D
-# 3.E
-# 4.B
-# 5.C
-# 6.A
+DVCS Excercise
+Suryansh Kaushal
+
+1.F
+2.D
+3.E
+4.B
+5.C
+6.A
 
 Short Answer & Multiple Choice
 
@@ -27,10 +27,10 @@ Question 5.
 Answer - remote repository, Ignored Files
 
 Question 6.
-Answer - (4.A code repository that is not on your local computer)
+Answer - d) A code repository that is not on your local computer)
 
 Question 7.
-Answer - (1.A code repository that is on your local computer.
+Answer - a) A code repository that is on your local computer.
 
 Question 8.
 Answer - Origin
